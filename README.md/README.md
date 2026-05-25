@@ -130,7 +130,7 @@ Built a single-page interactive dashboard with:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](screenshots/SCREENSHOT.png)
+![Dashboard Preview](screenshots/dashboard_preview.png)
 
 ---
 
